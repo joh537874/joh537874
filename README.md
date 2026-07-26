@@ -7,17 +7,17 @@ I design the product in Figma, then build it and deploy it myself.
 Everything below is live.
 
 <p align="center">
-  <img src="assets/showcase.svg" alt="ttorae · Sensory · NUN · SpectrumLens" width="100%">
+  <img src="assets/showcase.svg" alt="everyday · ttorae · SpectrumLens · UserTest" width="100%">
 </p>
 
 ## Projects
 
 | Project | What it is | Built with | Live |
 |---|---|---|---|
-| **NUN** | Brand site for eye-level equality street furniture. Kia × Hongik industry-academia project | Next.js · Motion · Tailwind | [nun-website.vercel.app](https://nun-website.vercel.app) |
-| **Sensory** | AI chat that turns feelings into visuals | Next.js · AI SDK · Zustand | [sensory-app-one.vercel.app](https://sensory-app-one.vercel.app) |
-| **ttorae** | Peer mentor matching platform with auth, school email verification and payments | Next.js · Supabase · PortOne | [ttorae.vercel.app](https://ttorae.vercel.app) |
+| **UserTest** | Remote usability testing tool with screen + mic recording | Next.js · AWS S3 · OpenAI | [naverusertest.vercel.app](https://naverusertest.vercel.app) |
 | **SpectrumLens** | Opinion mapping for search. Reviews from people like you cluster around you, split by sentiment, demographics and time | JavaScript · Node.js · OpenAI | [spectrumlens.xyz](https://spectrumlens.xyz) |
+| **ttorae** | Peer mentor matching platform with auth, school email verification and payments | Next.js · Supabase · PortOne | [ttorae.vercel.app](https://ttorae.vercel.app) |
+| **everyday** | AI companion you spend ordinary days with. Character daily-life prototype | Next.js · OpenAI | [everyday-prototype.vercel.app](https://everyday-prototype.vercel.app) |
 
 ## Highlights
 
