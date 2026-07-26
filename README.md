@@ -20,11 +20,3 @@
 🏆 **BUIDL Hack 2026** · NEAR AI 트랙 3위
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0f1014?style=flat-square&logo=typescript&logoColor=8b93a7)
-![Next.js](https://img.shields.io/badge/Next.js-0f1014?style=flat-square&logo=nextdotjs&logoColor=8b93a7)
-![React](https://img.shields.io/badge/React-0f1014?style=flat-square&logo=react&logoColor=8b93a7)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f1014?style=flat-square&logo=tailwindcss&logoColor=8b93a7)
-![Supabase](https://img.shields.io/badge/Supabase-0f1014?style=flat-square&logo=supabase&logoColor=8b93a7)
-![Figma](https://img.shields.io/badge/Figma-0f1014?style=flat-square&logo=figma&logoColor=8b93a7)
-![Claude Code](https://img.shields.io/badge/Claude_Code-0f1014?style=flat-square&logo=anthropic&logoColor=8b93a7)
-![Vercel](https://img.shields.io/badge/Vercel-0f1014?style=flat-square&logo=vercel&logoColor=8b93a7)
