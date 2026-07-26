@@ -6,6 +6,10 @@ Product design student at Hongik Univ. who ships.
 I design the product in Figma, then build it and deploy it myself.
 Everything below is live.
 
+<p align="center">
+  <img src="assets/showcase.svg" alt="ttorae · Sensory · NUN · SpectrumLens" width="100%">
+</p>
+
 ## Projects
 
 | Project | What it is | Built with | Live |
