@@ -19,10 +19,6 @@
 
 🏆 **BUIDL Hack 2026** · NEAR AI 트랙 3위
 
-## 일하는 방식
-
-Figma에서 시작해 TypeScript로 프로덕션까지 갑니다.
-스케치부터 배포까지 AI와 함께 만듭니다.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f1014?style=flat-square&logo=typescript&logoColor=8b93a7)
 ![Next.js](https://img.shields.io/badge/Next.js-0f1014?style=flat-square&logo=nextdotjs&logoColor=8b93a7)
