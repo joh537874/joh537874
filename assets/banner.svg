@@ -1,0 +1,38 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="18%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#2a2d36"/>
+      <stop offset="60%" stop-color="#15161b"/>
+      <stop offset="100%" stop-color="#0f1014"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b93a7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8b93a7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8b93a7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+
+  <!-- faint grid -->
+  <g stroke="#ffffff" stroke-opacity="0.035">
+    <line x1="0" y1="75" x2="1200" y2="75"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="225" x2="1200" y2="225"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="900" y1="0" x2="900" y2="300"/>
+  </g>
+
+  <text x="80" y="152" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="-2" fill="#f2f3f5">ZZ1nj0</text>
+
+  <text x="84" y="204" font-family="'SF Mono', 'Fira Code', Menlo, Consolas, monospace" font-size="21" fill="#8b93a7">~ % design &amp;&amp; build &amp;&amp; ship</text>
+  <text x="84" y="204" font-family="'SF Mono', 'Fira Code', Menlo, Consolas, monospace" font-size="21" fill="#8b93a7">
+    <tspan x="392" fill="#c9ced9">▌</tspan>
+  </text>
+
+  <rect x="80" y="236" width="1040" height="1" fill="url(#line)"/>
+
+  <text x="80" y="272" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="0.4" fill="#5d6474">PRODUCT DESIGNER · HONGIK UNIV. VISUAL COMMUNICATION DESIGN</text>
+  <text x="1120" y="272" text-anchor="end" font-family="'SF Mono', 'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#5d6474">seoul, kr</text>
+</svg>
